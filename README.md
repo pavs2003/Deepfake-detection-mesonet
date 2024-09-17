@@ -1,4 +1,4 @@
-A git commit created to see the changes using DJANGO API framework, and i have uploaded some of the existing files as well to get the predicted result.
+A git commit created to see the changes using DJANGO REST API framework, and i have uploaded some of the existing files as well to get the predicted result.
 
 
 [Jekyll]: https://jekyllrb.com
